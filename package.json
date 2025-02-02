@@ -1,0 +1,25 @@
+{
+  "name": "backend_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratapmajge/backend.js.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "pratap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pratapmajge/backend.js/issues"
+  },
+  "homepage": "https://github.com/pratapmajge/backend.js#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
