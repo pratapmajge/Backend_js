@@ -10,6 +10,10 @@ app.get('/twitter' , (req,res) => {
   res.send("Pratap")
 })
 
+app.get('/login' , (req , res) => {
+  res.send('<h1>Please Login</h1>')
+})
+
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
